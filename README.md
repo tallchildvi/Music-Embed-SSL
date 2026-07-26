@@ -1,4 +1,4 @@
-# Spotify-SimCLR: Content-Based Music Recommendation Engine
+# Self-Supervised Music Embedding Learning
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
